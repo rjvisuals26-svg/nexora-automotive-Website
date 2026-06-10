@@ -23,6 +23,36 @@
 
 ---
 
+## 🌐 Live Experience & Verification
+
+Experience the digital showroom firsthand. Scan the secure architecture gateway below with your mobile device to test live responsiveness, or click the direct production link.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <h4>Scan to Experience Mobile</h4>
+        <br />
+        <img src="https://i.ibb.co/HLkS3xRX/qrcode-361216837-a422ea8bcdbb6b5bdce7c9677d4284bf.png" alt="Nexora Live QR Code Link" width="180" style="border: 2px solid #EA580C; padding: 10px; background: white; border-radius: 8px;" />
+        <br />
+        <p><sub>Open camera app to scan</sub></p>
+      </td>
+      <td align="left" width="400" valign="middle">
+        <h4>Deployment Portals</h4>
+        <ul>
+          <li><strong>Production Engine:</strong> <a href="https://nexorawebapp.netlify.app/">Live Link</a></li>
+        </ul>
+        <hr style="border-color: #333;" />
+        <blockquote>
+          <strong>Design Note:</strong> For the absolute best sensory experience, we recommend viewing the live site on an OLED display to fully appreciate the deep black contrast values.
+        </blockquote>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🏎️ Executive Overview
 
 **NEXORA** reimagines how luxury automotive engineering is presented digitally. Built with a performance-first mindset, this interface bridges structural elegance and interactive technology. The platform features an ultra-clean layout, cinematic asset presentation, and an advanced specifications metrics engine.
@@ -68,7 +98,6 @@ The desktop experience is engineered as a seamless, single-page cinematic editor
 </table>
 
 ---
----
 
 ## 📱 Mobile Architecture & Responsiveness
 
@@ -99,36 +128,6 @@ The interface was built from the ground up utilizing **Mobile-First Design** wor
 * **Styling Framework:** Custom Modern CSS3 (CSS Variables & Flexbox/Grid Grid System)
 * **Motion & Interactivity:** Vanilla JavaScript (ES6+ Architecture)
 * **Deployment & Edge CDN:** Netlify High-Performance Network
-
----
-
-## 🌐 Live Experience & Verification
-
-Experience the digital showroom firsthand. Scan the secure architecture gateway below with your mobile device to test live responsiveness, or click the direct production link.
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="300">
-        <h4>Scan to Experience Mobile</h4>
-        <br />
-        <img src="https://i.ibb.co/HLkS3xRX/qrcode-361216837-a422ea8bcdbb6b5bdce7c9677d4284bf.png" alt="Nexora Live QR Code Link" width="180" style="border: 2px solid #EA580C; padding: 10px; background: white; border-radius: 8px;" />
-        <br />
-        <p><sub>Open camera app to scan</sub></p>
-      </td>
-      <td align="left" width="400" valign="middle">
-        <h4>Deployment Portals</h4>
-        <ul>
-          <li><strong>Production Engine:</strong> <a href="https://nexorawebapp.netlify.app/">Live Link</a></li>
-        </ul>
-        <hr style="border-color: #333;" />
-        <blockquote>
-          <strong>Design Note:</strong> For the absolute best sensory experience, we recommend viewing the live site on an OLED display to fully appreciate the deep black contrast values.
-        </blockquote>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
