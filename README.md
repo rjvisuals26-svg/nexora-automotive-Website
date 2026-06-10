@@ -68,7 +68,7 @@ The interface was built from the ground up utilizing **Mobile-First Design** wor
 
 ## 🌐 Live Experience & Verification
 
-Experience the digital showroom firsthand. Scan the secure architecture gateway below with your mobile device to test live responsiveness, or click the direct portal link.
+Experience the digital showroom firsthand. Scan the secure architecture gateway below with your mobile device to test live responsiveness, or click the direct production link.
 
 <div align="center">
   <table>
@@ -83,8 +83,7 @@ Experience the digital showroom firsthand. Scan the secure architecture gateway 
       <td align="left" width="400" valign="middle">
         <h4>Deployment Portals</h4>
         <ul>
-          <li><strong>Production Engine:</strong> <a href="https://i.ibb.co/HLkS3xRX/qrcode-361216837-a422ea8bcdbb6b5bdce7c9677d4284bf.png">nexora-showroom.vercel.app</a></li>
-          <li><strong>UI Design Case Study:</strong> <a href="YOUR_BEHANCE_OR_FIGMA_LINK">Behance Portfolio Showcase</a></li>
+          <li><strong>Production Engine:</strong> <a href="https://i.ibb.co/HLkS3xRX/qrcode-361216837-a422ea8bcdbb6b5bdce7c9677d4284bf.png">Live Showroom Link</a></li>
         </ul>
         <hr style="border-color: #333;" />
         <blockquote>
