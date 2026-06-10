@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NEXORA — Beyond Motion. Beyond Limits.</title>
+  <meta name="description" content="A futuristic automotive design concept focused on breaking limits of speed, design, and emotion." />
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Outfit:wght@200;300;400;500;700&display=swap" rel="stylesheet" />
+  
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <!-- Custom Cursor -->
+  <div class="custom-cursor"></div>  <!-- Navigation -->
+  <header class="nav">
+    <div class="nav__inner">
+      <a href="#" class="nav__logo">NEXORA</a>
+      <nav class="nav__links">
+        <a href="#models">Models</a>
+        <a href="#engineering">Philosophy</a>
+        <a href="#specs">Specs</a>
+        <a href="#craft">Craft</a>
+      </nav>
+      <a href="#cta" class="nav__cta">View Concept</a>
+    </div>
+  </header>
+
+  <!-- 1. HERO SECTION -->
+  <section class="hero dark-section">
+    <div class="hero__bg" data-parallax>
+      <video src="assets/car video.mp4" autoplay loop muted playsinline></video>
+      <div class="hero__overlay"></div>
+    </div>
+    <div class="hero__content">
+      <h1 class="hero__title reveal">NEXORA</h1>
+      <p class="hero__tagline reveal">Beyond Motion. Beyond Limits.</p>
+      <div class="hero__actions reveal">
+        <a href="#models" class="btn btn--primary">Explore Performance</a>
+        <a href="#engineering" class="btn btn--ghost">View Concept</a>
+      </div>
+    </div>
+    <div class="hero__scroll">
+      <span>Scroll</span>
+      <div class="hero__scroll-line"></div>
+    </div>
+  </section>
+
+  <!-- 2. PERFORMANCE MODELS -->
+  <section id="models" class="models dark-section">
+    <div class="section-header">
+      <h2 class="reveal">Defy Physics.</h2>
+      <p class="reveal">The inaugural lineup.</p>
+    </div>
+    <div class="models__slider">
+      <div class="models__track">
+        <a href="model.html" class="model-card reveal">
+          <div class="model-card__img">
+            <img src="assets/model-1.jpg" alt="PROJECT NX-1" />
+            <div class="model-card__glow"></div>
+          </div>
+          <div class="model-card__info">
+            <h3>PROJECT NX-1</h3>
+            <p>Aerodynamic supremacy for the track.</p>
+          </div>
+        </a>
+        <a href="model.html" class="model-card reveal">
+          <div class="model-card__img">
+            <img src="assets/model-2.jpg" alt="PROJECT NX-2 Stealth" />
+            <div class="model-card__glow"></div>
+          </div>
+          <div class="model-card__info">
+            <h3>NX STEALTH</h3>
+            <p>Carbon black. Engineered for the dark.</p>
+          </div>
+        </a>
+        <a href="model.html" class="model-card reveal">
+          <div class="model-card__img">
+            <img src="assets/model-3.jpg" alt="PROJECT NX-Grand" />
+            <div class="model-card__glow"></div>
+          </div>
+          <div class="model-card__info">
+            <h3>NX GRAND</h3>
+            <p>The grand tourer. Elegance at velocity.</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- 3. ENGINEERING PHILOSOPHY -->
+  <section id="engineering" class="engineering dark-section">
+    <div class="engineering__split">
+      <div class="engineering__content">
+        <h2 class="reveal">Engineering<br/>Without Gravity.</h2>
+        <div class="engineering__keywords reveal">
+          <span>Precision.</span>
+          <span>Speed.</span>
+          <span>Aerodynamics.</span>
+          <span>Control.</span>
+        </div>
+        <p class="reveal">We design for the absolute limit of physics. Every curve serves aerodynamic efficiency, creating an emotional synergy between machine and atmosphere.</p>
+      </div>
+      <div class="engineering__visual">
+        <div class="engineering__img" data-parallax>
+          <img src="assets/engine.jpg" alt="Aerodynamic details" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 4. SPECIFICATIONS SECTION -->
+  <section id="specs" class="specs light-section">
+    <div class="section-header center">
+      <h2 class="reveal dark-text">Absolute Numbers.</h2>
+    </div>
+    <div class="specs__grid">
+      <div class="spec-card reveal">
+        <div class="spec-card__value"><span data-count="365">0</span><span class="unit">km/h</span></div>
+        <div class="spec-card__label">Top Speed</div>
+        <div class="spec-card__bar"></div>
+      </div>
+      <div class="spec-card reveal">
+        <div class="spec-card__value"><span data-count="2.4" data-decimals="1">0</span><span class="unit">s</span></div>
+        <div class="spec-card__label">0–100 km/h</div>
+        <div class="spec-card__bar"></div>
+      </div>
+      <div class="spec-card reveal">
+        <div class="spec-card__value"><span data-count="1050">0</span><span class="unit">hp</span></div>
+        <div class="spec-card__label">Horsepower</div>
+        <div class="spec-card__bar"></div>
+      </div>
+      <div class="spec-card reveal">
+        <div class="spec-card__value"><span data-count="1200">0</span><span class="unit">nm</span></div>
+        <div class="spec-card__label">Torque</div>
+        <div class="spec-card__bar"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 5. DESIGN CRAFT -->
+  <section id="craft" class="craft dark-section">
+    <div class="section-header">
+      <h2 class="reveal">Obsessive Detail.</h2>
+    </div>
+    <div class="craft__grid">
+      <div class="craft__item reveal">
+        <img src="assets/carbon.jpg" alt="Carbon Fiber" />
+        <div class="craft__overlay">
+          <span>Forged Carbon</span>
+        </div>
+      </div>
+      <div class="craft__item reveal">
+        <img src="assets/headlight.jpg" alt="Headlights" />
+        <div class="craft__overlay">
+          <span>Laser Light Optics</span>
+        </div>
+      </div>
+      <div class="craft__item reveal">
+        <img src="assets/wheel.jpg" alt="Steering Wheel" />
+        <div class="craft__overlay">
+          <span>Alcantara Tactility</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 6. GALLERY -->
+  <section id="gallery" class="gallery dark-section">
+    <div class="gallery__grid">
+      <div class="gallery__img reveal">
+        <img src="assets/hero.jpg" alt="Car Detail" />
+      </div>
+      <div class="gallery__img reveal">
+        <img src="assets/finale.jpg" alt="Car Detail" />
+      </div>
+    </div>
+  </section>
+
+  <!-- 7. FINAL CTA -->
+  <section id="cta" class="cta light-section">
+    <div class="cta__inner">
+      <h2 class="reveal dark-text">Defy Gravity.<br/>Experience Performance.</h2>
+      <div class="cta__actions reveal">
+        <a href="#models" class="btn btn--primary">Explore Models</a>
+        <a href="#" class="btn btn--outline">Download Concept Portfolio</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Premium Footer -->
+  <footer class="footer-premium dark-section">
+    <div class="footer-premium__inner">
+      
+      <!-- Top: Region -->
+      <div class="footer__region">
+        <span class="region-label">Current Region / Language</span>
+        <div class="region-select">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="globe-icon"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg>
+          <span class="region-current">International / English</span>
+          <a href="#" class="region-change">Change</a>
+        </div>
+      </div>
+
+      <!-- Middle: Columns -->
+      <div class="footer__columns">
+        <div class="footer__col">
+          <h4>Locations & Contacts</h4>
+          <a href="#">Get in touch</a>
+        </div>
+        <div class="footer__col">
+          <h4>Company</h4>
+          <a href="#">Investor Relations</a>
+          <a href="#">Career</a>
+          <a href="#">Global Partnership Council</a>
+          <a href="#">Compliance</a>
+          <a href="#">Newsroom & Press</a>
+          <a href="#">Information Security</a>
+        </div>
+        <div class="footer__col">
+          <h4>NEXORA on the web</h4>
+          <a href="#">NX Homepage</a>
+          <a href="#">NX Configurator</a>
+          <a href="#">NX Connect</a>
+        </div>
+      </div>
+
+      <!-- Bottom: Social & Apps -->
+      <div class="footer__bottom">
+        <div class="footer__socials">
+          <a href="#" aria-label="Facebook"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg></a>
+          <a href="#" aria-label="Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg></a>
+          <a href="#" aria-label="YouTube"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33 2.78 2.78 0 0 0 1.94 2c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.33 29 29 0 0 0-.46-5.33z"></path><polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"></polygon></svg></a>
+          <a href="#" aria-label="X"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"></path></svg></a>
+          <a href="#" aria-label="LinkedIn"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg></a>
+        </div>
+        <div class="footer__apps">
+          <div class="app-badge">
+            <svg viewBox="0 0 24 24" fill="currentColor" width="20"><path d="M3,20.5V3.5C3,2.91 3.34,2.39 3.84,2.15L13.69,12L3.84,21.85C3.34,21.6 3,21.09 3,20.5M16.81,15.12L6.05,21.34L14.54,12.85L16.81,15.12M20.16,10.81C20.5,11.08 20.75,11.5 20.75,12C20.75,12.5 20.5,12.92 20.16,13.19L17.89,14.5L15.39,12L17.89,9.5L20.16,10.81M6.05,2.66L16.81,8.88L14.54,11.15L6.05,2.66Z" /></svg>
+            <div class="app-badge__text">
+              <span class="small">GET IT ON</span>
+              <span class="big">Google Play</span>
+            </div>
+          </div>
+          <div class="app-badge">
+            <svg viewBox="0 0 24 24" fill="currentColor" width="20"><path d="M18.71,19.5C17.88,20.74 17,21.95 15.66,21.97C14.32,22 13.89,21.18 12.37,21.18C10.84,21.18 10.37,21.95 9.1,22C7.79,22.05 6.8,20.68 5.96,19.47C4.25,17 2.94,12.45 4.7,9.39C5.57,7.87 7.13,6.91 8.82,6.88C10.1,6.86 11.32,7.75 12.11,7.75C12.89,7.75 14.37,6.68 15.92,6.84C16.57,6.87 18.39,7.1 19.56,8.82C19.47,8.88 17.39,10.1 17.41,12.63C17.44,15.65 20.06,16.66 20.09,16.69C20.06,16.76 19.6,18.23 18.71,19.5M12.08,5.92C12.76,5.1 13.22,3.95 13.09,2.8C12.09,2.84 10.88,3.46 10.18,4.27C9.55,5 9.02,6.18 9.17,7.31C10.28,7.39 11.41,6.75 12.08,5.92Z" /></svg>
+            <div class="app-badge__text">
+              <span class="small">Download on the</span>
+              <span class="big">App Store</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="https://unpkg.com/lenis@1.1.2/dist/lenis.min.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>
