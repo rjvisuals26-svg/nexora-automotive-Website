@@ -1,14 +1,14 @@
 # NEXORA — Beyond Motion. Beyond Limits.
 
 <div align="center">
-  <img src="https://i.ibb.co/XkJ0pdqk/af87536e-a611-4ff3-9a22-5a5a88e3d1c4.jpg" alt="Nexora Desktop Hero Mockup" width="100%" style="border-radius: 8px;" />
+  <img src="https://i.ibb.co/Vv0F8tK6/Gemini-Generated-Image-m4v6tcm4v6tcm4v6.png" alt="Nexora Desktop Full Layout Preview" width="100%" style="border-radius: 8px;" />
 </div>
 
 <br />
 
 <div align="center">
   <h3>Luxury Automotive Interface & Experience</h3>
-  <p>A premium digital showroom designed for high-performance concept vehicles, blending hyper-minimalist UI design with fluid engineering.</p>
+  <p>A premium digital showroom designed for high-performance concept vehicles, blending hyper-minimalist UI design with vanilla frontend engineering.</p>
 </div>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## 🏎️ Executive Overview
 
-**NEXORA** reimagines how luxury automotive engineering is presented digitally. Built with a performance-first mindset, this interface bridges structural elegance and interactive technology. The platform features an ultra-clean layout, cinematic asset presentation, and an advanced specifications metrics engine.
+**NEXORA** reimagines how luxury automotive engineering is presented digitally. Built with a performance-first mindset, this interface bridges structural elegance and modern web technology. The platform features an ultra-clean layout, cinematic asset presentation, and an advanced specifications metrics engine.
 
 ### Core Architecture Pillars
 * **Hyper-Minimalist Grid:** Stripped-back structural noise to give absolute visual dominance to the vehicle photography.
@@ -60,7 +60,7 @@ The interface was built from the ground up utilizing **Mobile-First Design** wor
 
 ### Stack Architecture
 * **Core Interface:** Semantic HTML5
-* **Styling Framework:** Custom Modern CSS3 (CSS Variables & Flexbox/Grid Grid System)
+* **Styling Framework:** Custom Modern CSS3 (CSS Variables & Flexbox/Grid Layout Systems)
 * **Motion & Interactivity:** Vanilla JavaScript (ES6+ Architecture)
 * **Deployment & Edge CDN:** Netlify High-Performance Network
 
@@ -83,7 +83,7 @@ Experience the digital showroom firsthand. Scan the secure architecture gateway 
       <td align="left" width="400" valign="middle">
         <h4>Deployment Portals</h4>
         <ul>
-          <li><strong>Production Engine:</strong> <a href="https://nexorawebapp.netlify.app/" >Live Link</a></li>
+          <li><strong>Production Engine:</strong> <a href="https://nexorawebapp.netlify.app/">Live Showroom Link</a></li>
         </ul>
         <hr style="border-color: #333;" />
         <blockquote>
@@ -97,5 +97,5 @@ Experience the digital showroom firsthand. Scan the secure architecture gateway 
 ---
 
 <p align="center" style="color: #666;">
-  Designed & Engineered by your brand. © 2026 NEXORA Labs. All Rights Reserved.
+  Designed & Engineered by Arts by RJ. © 2026 NEXORA Labs. All Rights Reserved.
 </p>
