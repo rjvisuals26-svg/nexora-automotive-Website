@@ -39,7 +39,7 @@
 The desktop experience is engineered as a seamless, single-page cinematic editorial scroll. Built using absolute symmetry, high contrast ratios, and deliberate breathing room.
 
 <div align="center">
-  <img src="https://i.ibb.co/m4v6tcm4/Gemini-Generated-Image-m4v6tcm4v6tcm4v6.png" alt="Nexora Full Desktop Showroom Layout" width="100%" style="border-radius: 8px; box-shadow: 0 20px 40px rgba(0,0,0,0.8);" />
+  <img src="https://i.ibb.co/nqmgfkdW/Gemini-Generated-Image-m4v6tcm4v6tcm4v6777.png" alt="Nexora Full Desktop Showroom Layout" width="100%" style="border-radius: 8px; box-shadow: 0 20px 40px rgba(0,0,0,0.8);" />
 </div>
 
 <br />
