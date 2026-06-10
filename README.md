@@ -83,7 +83,7 @@ Experience the digital showroom firsthand. Scan the secure architecture gateway 
       <td align="left" width="400" valign="middle">
         <h4>Deployment Portals</h4>
         <ul>
-          <li><strong>Production Engine:</strong> <a href=https://nexorawebapp.netlify.app/">Live Link</a></li>
+          <li><strong>Production Engine:</strong> <a href="https://nexorawebapp.netlify.app/" >Live Link</a></li>
         </ul>
         <hr style="border-color: #333;" />
         <blockquote>
